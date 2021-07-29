@@ -1,0 +1,12 @@
+.searchTerm {
+  width: 90%;
+  border: 3px solid red;
+  padding: 5px;
+  height: 40px;
+  border-radius: 5px 5px 5px 5px;
+  outline: none;
+}
+
+.searchTerm:focus {
+  color: black;
+}
